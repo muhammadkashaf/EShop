@@ -2,6 +2,7 @@ const express = require("express");
 const app = express();
 const bodyParser = require("body-parser");
 const morgan = require("morgan");
+const mongoose = require("mongoose");
 
 //middleware
 app.use(bodyParser.json());
@@ -25,6 +26,17 @@ app.post(`${api}/products`, (req, res) => {
   console.log(newProducts);
   res.send(newProducts);
 });
+
+
+
+mongoose
+  .connect(process.env.CONNECTION_STRING, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+    dbName: 'eshop-database'
+  })
+
+
 
 app.listen(3000, () => {
   console.log(api);
