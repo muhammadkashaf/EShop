@@ -4,15 +4,23 @@ const express = require("express");
 const mongoose = require("mongoose");
 const router = express.Router();
 
-//Get Product REST API
-router.get(`/`, async (req, res) => {
-  const productList = await Product.find();
+//Filtering And Getting Product by Category
+router.get(`/`, async (req, res) =>{
+    let filter = {};
+    if(req.query.categories)
+    {
+         filter = {category: req.query.categories.split(',')}
+    }
 
-  if (!productList) {
-    res.status(500).json({ success: false });
-  }
-  res.send(productList);
-});
+    const productList = await Product.find(filter).populate('category');
+
+    if(!productList) {
+        res.status(500).json({success: false})
+    } 
+    res.send(productList);
+})
+
+
 
 router.get(`/:id`, async (req, res) => {
   const product = await Product.findById(req.params.id);
@@ -113,7 +121,6 @@ router.get(`/get/count`, async (req, res) => {
     productCount: productCount,
   });
 });
-
 
 //Get Featured Products REST API
 router.get(`/get/featured/:count`, async (req, res) => {
