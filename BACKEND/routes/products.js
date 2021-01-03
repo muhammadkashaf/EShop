@@ -1,9 +1,8 @@
 const { Product } = require("../models/product");
 const { Category } = require("../models/category");
 const express = require("express");
+const mongoose = require("mongoose");
 const router = express.Router();
-
-
 
 //Get Product REST API
 router.get(`/`, async (req, res) => {
@@ -23,9 +22,6 @@ router.get(`/:id`, async (req, res) => {
   }
   res.send(product);
 });
-
-
-
 
 //Add Product REST API
 
@@ -54,11 +50,13 @@ router.post(`/`, async (req, res) => {
   res.send(product);
 });
 
-
-
 //Update Product REST API
 
 router.put("/:id", async (req, res) => {
+  if (!mongoose.isValidObjectId(req.params.id)) {
+    res.status(400).send("Invalid Product Id");
+  }
+
   const category = await Category.findById(req.body.category);
   if (!category) return res.status(400).send("Invalid Category");
 
@@ -83,6 +81,25 @@ router.put("/:id", async (req, res) => {
   if (!product) return res.status(500).send("the product cannot be updated!");
 
   res.send(product);
+});
+
+//DELETE a Product RESTAPI AND PURPOSES
+router.delete("/:id", (req, res) => {
+  Product.findByIdAndRemove(req.params.id)
+    .then((product) => {
+      if (product) {
+        return res
+          .status(200)
+          .json({ success: true, message: "the product is deleted" });
+      } else {
+        return res
+          .status(404)
+          .json({ success: false, message: "Product not found" });
+      }
+    })
+    .catch((err) => {
+      return res.status(400).json({ success: false, error: err });
+    });
 });
 
 module.exports = router;
