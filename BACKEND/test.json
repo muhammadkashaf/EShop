@@ -1,0 +1,864 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.barrons.com/articles/affirm-stock-amazon-51636583099",
+            "image_url": "https://cdn.snapi.dev/images/v1/u/r/urlhttps3a2f2fgfoolcdncom2feditorial2fimages2f6371022fsmiling-small-business-owner-packing-a-customer-order-into-a-shipping-boxjpgw700opresize-953552-1101893.jpg",
+            "title": "Affirm Stock Is Soaring. There's a Bigger Amazon Deal and Earnings Beat Estimates.",
+            "text": "Affirm greatly expanded a pact to offer \"buy now, pay later\" services to Amazon customers. Affirm also handily beat fiscal-first-quarter estimates.",
+            "source_name": "Barrons",
+            "date": "Wed, 10 Nov 2021 17:25:00 -0500",
+            "topics": [
+                "earnings",
+                "paywall"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AFRM",
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4468099-amazon-much-more-than-e-commerce-buy-for-cloud-growth-during-pullbacks",
+            "image_url": "https://cdn.snapi.dev/images/v1/u/v/13amsgc-1-1101839.jpg",
+            "title": "Amazon: Much More Than E-Commerce, Buy For Cloud Growth During Pullbacks",
+            "text": "Amazon is a great company and its AWS segment has good growth prospects. Its retail segment has shown some weakness recently, making AWS its major growth engine.",
+            "source_name": "Seeking Alpha",
+            "date": "Wed, 10 Nov 2021 17:06:39 -0500",
+            "topics": [
+                "paylimitwall"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.marketwatch.com/story/affirm-stock-surges-after-company-expands-amazon-relationship-delivers-upbeat-earnings-11636580311",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/a/social-1101739.jpg",
+            "title": "Earnings Results: Affirm stock surges after company ‘expands' Amazon relationship, delivers upbeat earnings",
+            "text": "After plunging more than 15% Wednesday, shares of Affirm Holdings Inc. looked to be making up ground in the extended session after the buy-now pay-later company delivered upbeat results and announced that it had “expanded” its relationship with Amazon.com Inc.",
+            "source_name": "Market Watch",
+            "date": "Wed, 10 Nov 2021 16:38:00 -0500",
+            "topics": [
+                "earnings",
+                "paylimitwall"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AFRM",
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.cnbc.com/2021/11/10/affirm-shares-soar-after-announcing-expanded-deal-with-amazon.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/7/p/105323447-1531318381093gettyimages-995761246-1101673.jpg",
+            "title": "Affirm shares soar after announcing expanded deal with Amazon, Q2 revenues beat estimates",
+            "text": "Affirm will serve as the sole third-party buy now pay later option for the e-commerce giant.",
+            "source_name": "CNBC",
+            "date": "Wed, 10 Nov 2021 16:26:37 -0500",
+            "topics": [
+                "earnings"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AFRM",
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://investorplace.com/understanding-investment-opportunity-electric-vehicle-ev-stocks/",
+            "image_url": "https://cdn.snapi.dev/images/v1/e/l/electric-vehicle-stocks-768x432-1101649.jpg",
+            "title": "Understanding the Investment Opportunity in Electric Vehicle Stocks",
+            "text": "There are plenty of reasons to be hyped about EV stocks but some challenges also lie ahead. Here's a general breakdown of the industry.",
+            "source_name": "InvestorPlace",
+            "date": "Wed, 10 Nov 2021 16:25:02 -0500",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "ARVL",
+                "F",
+                "FDX",
+                "FSR",
+                "HMC",
+                "LCID",
+                "LI",
+                "NIO",
+                "NKLA",
+                "NSANY",
+                "RIVN",
+                "TM",
+                "TSLA",
+                "UPS",
+                "VLVLY",
+                "WKHS",
+                "WMT",
+                "XPEV"
+            ]
+        },
+        {
+            "news_url": "https://www.gurufocus.com/news/1568877/what-goes-up-must-come-down-the-pandemic-trade-is-over",
+            "image_url": "https://cdn.snapi.dev/images/v1/c/y/data-internet21-1101632.jpg",
+            "title": "What Goes Up Must Come Down: The Pandemic Trade Is Over",
+            "text": "The disappointing earnings results logged recently by what were once the hottest stocks during the height of the pandemic tellingly indicates that for many investors, the once auspicious pandemic trade is now over. The unique conditions that fueled many companies meteoric rise have abated.",
+            "source_name": "GuruFocus",
+            "date": "Wed, 10 Nov 2021 16:21:47 -0500",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "ABNB",
+                "AMZN",
+                "MSFT",
+                "ROKU",
+                "NFLX"
+            ]
+        },
+        {
+            "news_url": "https://www.kiplinger.com/investing/stocks/603737/stock-market-today-111021-persistent-inflation-gut-punches-tech-stocks",
+            "image_url": "https://cdn.snapi.dev/images/v1/r/a/stock-market-today-111021-1101755.jpg",
+            "title": "Stock Market Today: Persistent Inflation Gut-Punches Tech Stocks",
+            "text": "The highest jump for consumer prices in 30-plus years stole headlines Wednesday, but evidence of persistent inflation was the real worry for markets.",
+            "source_name": "Kiplinger",
+            "date": "Wed, 10 Nov 2021 16:08:51 -0500",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AMD",
+                "AMZN",
+                "GOOGL",
+                "NVDA"
+            ]
+        },
+        {
+            "news_url": "https://www.benzinga.com/news/21/11/24026702/why-amazon-shares-are-falling",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/0/m02d20211105t2i1580399918w940fhfwllplsqrlynxmpeha40vq-1092057-1101466.jpg",
+            "title": "Why Amazon Shares Are Falling",
+            "text": "Shares of several companies in the broader technology space, including Amazon.com, Inc. (NASDAQ: AMZN) are trading lower amid overall market weakness following worse-than-expected US inflation data, which has weighed on stocks across sectors. The 10-year Treasury yield hit an intraday high of 1.592% before dipping to around the 1.551% level.",
+            "source_name": "Benzinga",
+            "date": "Wed, 10 Nov 2021 15:49:42 -0500",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2021/11/10/meet-the-next-faang/",
+            "image_url": "https://cdn.snapi.dev/images/v1/p/o/podc9-1101304.jpg",
+            "title": "Meet the Next FAANG",
+            "text": "Shares of Avis Budget skyrocket as increased demand for rental cars fuels strong third-quarter profits.",
+            "source_name": "The Motley Fool",
+            "date": "Wed, 10 Nov 2021 15:48:00 -0500",
+            "topics": [
+                "podcast"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AAPL",
+                "ADBE",
+                "AMZN",
+                "CAR",
+                "CHGG",
+                "FB",
+                "GOOG",
+                "GOOGL",
+                "HTZZ",
+                "MSFT",
+                "NFLX",
+                "NKE",
+                "NVDA",
+                "UA",
+                "UAA"
+            ]
+        },
+        {
+            "news_url": "https://www.reuters.com/technology/exclusive-us-warns-against-ip-trade-secret-risks-draft-eu-tech-rules-paper-2021-11-10/",
+            "image_url": "https://cdn.snapi.dev/images/v1/k/6/m02d20211110t2i1580934538w940fhfwllplsqrlynxmpeha919x-1101072.jpg",
+            "title": "Exclusive-U.S. warns against IP, trade secret risks in draft EU tech rules - paper",
+            "text": "Draft landmark EU rules requiring U.S. tech giants to share information with rivals could put at risk companies' intellectual property and trade secrets, the United States government warned in a document seen by Reuters.",
+            "source_name": "Reuters",
+            "date": "Wed, 10 Nov 2021 13:47:00 -0500",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AAPL",
+                "AMZN",
+                "FB",
+                "GOOG",
+                "GOOGL"
+            ]
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/christopherwalton/2021/11/10/the-newest-35000-square-foot-amazon-fresh-store-signals-something-big----really-big/",
+            "image_url": "https://cdn.snapi.dev/images/v1/t/h/the-newest-35000-square-foot-amazon-fresh-store-signals-something-big-really-big-1100908.jpg",
+            "title": "The Newest 35,000 Square Foot Amazon Fresh Store Signals Something Big . . . Really Big",
+            "text": "Amazon Fresh appears already to be gaining market share, and its newest store prototype in Illinois will only further accelerate that fact.",
+            "source_name": "Forbes",
+            "date": "Wed, 10 Nov 2021 12:53:59 -0500",
+            "topics": [
+                "paylimitwall"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.barrons.com/articles/why-amazon-and-ge-are-among-this-opportunistic-all-cap-funds-favorite-stocks-51636565267",
+            "image_url": "https://cdn.snapi.dev/images/v1/v/j/im-430986-1100800.jpg",
+            "title": "Why GE and Amazon Are Among This Opportunistic All-Cap Fund's Favorite Stocks",
+            "text": "T. Rowe Price All-Cap Opportunities can invest in companies of any size. Top holdings include Amazon, GE, and UnitedHealth stock.",
+            "source_name": "Barrons",
+            "date": "Wed, 10 Nov 2021 12:27:00 -0500",
+            "topics": [
+                "paywall"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "GE"
+            ]
+        },
+        {
+            "news_url": "https://www.marketwatch.com/story/u-s-airlines-and-amazon-air-form-alliance-to-ramp-up-supply-of-sustainable-fuels-11636558786",
+            "image_url": "https://cdn.snapi.dev/images/v1/r/r/social-1100510.jpg",
+            "title": "U.S. airlines and Amazon Air form alliance to ramp up supply of sustainable fuels",
+            "text": "The Sustainable Aviation Buyers Alliance, the group of companies that says they'll offset flight emissions by investing in the still developing environmentally-friendly aviation fuel market, said Wednesday it is expanding with an initiative meant to lower the cost and boost the supply of sustainable fuel globally.",
+            "source_name": "Market Watch",
+            "date": "Wed, 10 Nov 2021 10:39:00 -0500",
+            "topics": [
+                "paylimitwall"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "ALK",
+                "JBLU",
+                "UAL"
+            ]
+        },
+        {
+            "news_url": "https://www.freightwaves.com/news/amazon-ford-among-the-big-winners-in-rivians-ipo",
+            "image_url": "https://cdn.snapi.dev/images/v1/r/i/rivian-manufacturing-normal-02-1200x675-1100452.jpg",
+            "title": "Amazon, Ford among the big winners in Rivian's IPO",
+            "text": "Rivian, the Amazon-backed electric vehicle startup, exceeded even its expectations as it hit the public markets Wednesday at a value of nearly $70 billion. Late Tuesday, the company announced it would set the price per share at $78, above even the revised range of $72 to $74 per share it said in a Securities and Exchange Commission filing on Friday.",
+            "source_name": "FreightWaves",
+            "date": "Wed, 10 Nov 2021 10:09:19 -0500",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "F",
+                "RIVN"
+            ]
+        },
+        {
+            "news_url": "https://markets.businessinsider.com/news/stocks/rivian-ipo-77-billion-rivn-big-winners-electric-trucks-amazon-2021-11",
+            "image_url": "https://cdn.snapi.dev/images/v1/6/1/618bcb2023745d001825d181formatjpeg-1100357.jpg",
+            "title": "The big winners in Rivian's $77 billion IPO include Amazon, Ford, and a Saudi investor that sells gas-fueled cars",
+            "text": "The Rivian IPO will raise $11.9 billion for the electric vehicle manufacturer, making it the sixth largest public debut on a US exchange ever.",
+            "source_name": "Business Insider",
+            "date": "Wed, 10 Nov 2021 09:41:47 -0500",
+            "topics": [
+                "paylimitwall"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "F",
+                "RIVN"
+            ]
+        },
+        {
+            "news_url": "https://www.cnbc.com/2021/11/10/amazon-backed-ev-start-up-rivian-set-to-go-public-.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/t/c/105731322-1549891778950gettyimages-1065929268-1100303.jpeg",
+            "title": "Amazon-backed EV start-up Rivian set to go public",
+            "text": "Rivian, which is backed by Amazon and Ford, has attracted intense interest from investors looking to capitalize on the fast-growing EV market.",
+            "source_name": "CNBC",
+            "date": "Wed, 10 Nov 2021 09:19:09 -0500",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "RIVN"
+            ]
+        },
+        {
+            "news_url": "https://www.marketwatch.com/story/amazon-is-proof-of-a-major-weakness-in-esg-ratings-11636553274",
+            "image_url": "https://cdn.snapi.dev/images/v1/5/u/social-1100256.jpg",
+            "title": "The Conversation: Amazon is proof of a major weakness in ESG ratings",
+            "text": "If you own stocks, chances are good you have heard the term ESG. It stands for environmental, social and governance, and it's a way to laud corporate leaders who take sustainability – including climate change – and social responsibility seriously, and punish those who do not.",
+            "source_name": "Market Watch",
+            "date": "Wed, 10 Nov 2021 09:07:00 -0500",
+            "topics": [
+                "paylimitwall"
+            ],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.businesswire.com/news/home/20211110005192/en/Under-Armour-Selects-AWS-as-Its-Preferred-Cloud-Provider-for-SAP-Environments/",
+            "image_url": "https://cdn.snapi.dev/images/v1/p/r/press18-1100915.jpg",
+            "title": "Under Armour Selects AWS as Its Preferred Cloud Provider for SAP Environments",
+            "text": "SEATTLE--(BUSINESS WIRE)--Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Under Armour, Inc. (NYSE: UA, UAA) has selected AWS as its preferred cloud provider for SAP to increase resilience, enhance security, and provide more significant insights across its business. The athletic performance brand completed the migration of its SAP environments to AWS earlier this year, providing the foundation for improving performance and visibility across its",
+            "source_name": "Business Wire",
+            "date": "Wed, 10 Nov 2021 09:00:00 -0500",
+            "topics": [
+                "PressRelease"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "UA",
+                "UAA"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2021/11/10/3-top-tech-stocks-to-buy-during-a-recession/",
+            "image_url": "https://cdn.snapi.dev/images/v1/u/r/urlhttps3a2f2fgfoolcdncom2feditorial2fimages2f6517212fgettyimages-1129173988jpgw700opresize-1099810.jpg",
+            "title": "3 Top Tech Stocks to Buy During a Recession",
+            "text": "Amazon, Palo Alto Networks, and Texas Instruments have what it takes to resist a market crash.",
+            "source_name": "The Motley Fool",
+            "date": "Wed, 10 Nov 2021 07:05:00 -0500",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "PANW",
+                "TXN"
+            ]
+        },
+        {
+            "news_url": "https://www.businesswire.com/news/home/20211110005702/en/Amazon-Announces-the-Launch-of-Amazon-Music-for-Colombia-and-Chile-Giving-Customers-Access-to-Millions-of-Songs-in-the-Highest-Quality-Audio-On-Demand-and-Ad-Free/",
+            "image_url": "https://cdn.snapi.dev/images/v1/n/m/press19-1099541.jpg",
+            "title": "Amazon Announces the Launch of Amazon Music for Colombia and Chile, Giving Customers Access to Millions of Songs in the Highest-Quality Audio, On-Demand and Ad-Free",
+            "text": "SEATTLE--(BUSINESS WIRE)--(NASDAQ: AMZN)—Amazon today announced the launch of Amazon Music for Colombia and Chile, bringing music fans millions of songs streaming in the highest-quality audio, thousands of locally programmed playlists and stations, top podcasts they already know and love, live streaming in partnership with Twitch, and new Original shows produced exclusively for Amazon Music. To download high-res images, click here. Beginning today, customers in Colombia and Chile can access Ama",
+            "source_name": "Business Wire",
+            "date": "Wed, 10 Nov 2021 06:11:00 -0500",
+            "topics": [
+                "PressRelease"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.reuters.com/business/cop/us-airlines-amazon-join-push-reduce-aircraft-emissions-2021-11-10/",
+            "image_url": "https://cdn.snapi.dev/images/v1/k/g/m02d20211110t2i1580854558w940fhfwllplsqrlynxmpeha90ab-1099364.jpg",
+            "title": "U.S. airlines and Amazon join push to reduce aircraft emissions",
+            "text": "Major U.S. airlines and Amazon.com's aviation unit are joining an effort to speed development and use of sustainable aviation fuels (SAF) to decrease emissions in air transport.",
+            "source_name": "Reuters",
+            "date": "Wed, 10 Nov 2021 01:09:00 -0500",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.gurufocus.com/news/1567465/10-stocks-postpandemic-what-to-consider-keep-and-run-from",
+            "image_url": "https://cdn.snapi.dev/images/v1/z/k/stocks8-55-893061-967557-1075268-1098822.jpg",
+            "title": "10 Stocks Post-Pandemic: What to Consider, Keep and Run From",
+            "text": "More than a year and a half into the Covid-19 pandemic, the world is changing. More people are returning to the office after months of working at home and restaurants have reopened.",
+            "source_name": "GuruFocus",
+            "date": "Tue, 09 Nov 2021 17:22:22 -0500",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "BNTX",
+                "DASH",
+                "JNJ",
+                "MRNA",
+                "PFE",
+                "REGN",
+                "AMC",
+                "CSCO",
+                "ZM"
+            ]
+        },
+        {
+            "news_url": "https://www.barrons.com/articles/some-big-tech-stocks-have-gone-bonkers-theyre-not-that-expensive-51636494599",
+            "image_url": "https://cdn.snapi.dev/images/v1/e/t/etf17-1063591-1098764.jpg",
+            "title": "Some Big Tech Stocks Have Gone Bonkers. They're Not That Expensive.",
+            "text": "The big share-price gains are coming from companies where earnings are also expected to soar.",
+            "source_name": "Barrons",
+            "date": "Tue, 09 Nov 2021 16:50:00 -0500",
+            "topics": [
+                "paywall"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AAPL",
+                "AMZN",
+                "FB",
+                "GOOGL",
+                "MSFT",
+                "TSLA"
+            ]
+        },
+        {
+            "news_url": "https://investorplace.com/2021/11/4-top-stock-trades-for-wednesday-pltr-spce-amzn-riot/",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/j/software24-1098930.jpg",
+            "title": "4 Top Stock Trades for Wednesday: PLTR, SPCE, AMZN, RIOT",
+            "text": "Palantir, Virgin Galactic, Amazon and Riot Blockchain were our top stock trades for Wednesday. Let's look at how the charts are setting up.",
+            "source_name": "InvestorPlace",
+            "date": "Tue, 09 Nov 2021 16:45:57 -0500",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "PLTR",
+                "SPCE",
+                "RIOT"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2021/11/09/why-amazon-stock-was-moving-higher-today/",
+            "image_url": "https://cdn.snapi.dev/images/v1/e/o/efw2344-1098544.jpg",
+            "title": "Why Amazon Stock Was Moving Higher Today",
+            "text": "A tie-up with PayPal's Venmo seemed to push it higher.",
+            "source_name": "The Motley Fool",
+            "date": "Tue, 09 Nov 2021 16:12:16 -0500",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.cnet.com/news/amazon-and-weber-sue-alleged-counterfeiters-hawking-grill-covers/",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/e/gettyimages-1229055259-1098708.jpg",
+            "title": "Amazon and Weber sue alleged counterfeiters hawking grill covers",
+            "text": "It's part of Amazon's larger strategy to crack down on counterfeiters.",
+            "source_name": "CNET",
+            "date": "Tue, 09 Nov 2021 16:04:42 -0500",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "WEBR"
+            ]
+        },
+        {
+            "news_url": "https://www.businesswire.com/news/home/20211109006349/en/Amazon-Expands-Investment-with-Four-New-Operations-Sites-in-Alabama/",
+            "image_url": "https://cdn.snapi.dev/images/v1/s/c/press3-1098224.jpg",
+            "title": "Amazon Expands Investment with Four New Operations Sites in Alabama",
+            "text": "SEATTLE--(BUSINESS WIRE)--Amazon.com, Inc. (Nasdaq:AMZN) today announced plans for three new operations facilities in Alabama and celebrates the launch of a new fulfillment center that will support customers across the state. “We are proud to continue our investment in Alabama with thousands of good jobs and new, state-of-the-art operations facilities,” said Brian Huseman, vice president of public policy at Amazon. “Our success would not be possible without our great employees and we are gratef",
+            "source_name": "Business Wire",
+            "date": "Tue, 09 Nov 2021 15:00:00 -0500",
+            "topics": [
+                "PressRelease"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.marketwatch.com/story/amazon-seeks-to-settle-two-eu-antitrust-probes-report-2021-11-09",
+            "image_url": "https://cdn.snapi.dev/images/v1/h/v/gettyimages-535059003jpgw600-2-1098123.jpg",
+            "title": "Amazon seeks to settle two EU antitrust probes: report",
+            "text": "Amazon.com Inc. AMZN, +2.71% is attempting to settle two antitrust investigations by the European Union to avoid heavy fines and orders to change its business practices, according to a Reuters report, citing people familiar with the matter. Last year, the European Commission charged Amazon with abusing its size, scope, and data to push its own products and gain an unfair advantage over rival merchants that sell on its online platform.",
+            "source_name": "Market Watch",
+            "date": "Tue, 09 Nov 2021 14:02:16 -0500",
+            "topics": [
+                "paylimitwall"
+            ],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.businesswire.com/news/home/20211109005388/en/New-Amazon-Sortation-Center-in-Maple-Grove-Now-Up-and-Running/",
+            "image_url": "https://cdn.snapi.dev/images/v1/p/r/press17-1097962.jpg",
+            "title": "New Amazon Sortation Center in Maple Grove Now Up and Running",
+            "text": "MINNEAPOLIS--(BUSINESS WIRE)--Amazon's newest Minnesota facility is up and running in Maple Grove. Workers at the Sort Center are ramping up operations as leaders continue to hire.",
+            "source_name": "Business Wire",
+            "date": "Tue, 09 Nov 2021 13:00:00 -0500",
+            "topics": [
+                "PressRelease"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.pymnts.com/antitrust/2021/report-amazon-hopes-to-settle-eu-antitrust-cases/",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/m/amazon-lawsuits-457x274-1097855.jpg",
+            "title": "Report: Amazon Hopes to Settle EU Antitrust Cases",
+            "text": "Amazon wants to settle a pair of antitrust probes in the EU in hopes of avoiding steep fines and directives to alter its business practices, Reuters reported on Tuesday (Nov. 9). Citing “people familiar with the matter,” the news agency said Amazon has begun discussions with the European Commission (EC) and has offered to make […]",
+            "source_name": "PYMNTS",
+            "date": "Tue, 09 Nov 2021 12:35:54 -0500",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.businesswire.com/news/home/20211109006012/en/Amazon-and-Weber-File-Joint-Lawsuit-Against-Counterfeiters/",
+            "image_url": "https://cdn.snapi.dev/images/v1/p/r/press6-1097007.jpg",
+            "title": "Amazon and Weber File Joint Lawsuit Against Counterfeiters",
+            "text": "SEATTLE--(BUSINESS WIRE)--Today, Amazon.com, Inc. (“Amazon”) (NASDAQ: AMZN), together with a subsidiary of Weber Inc. (NYSE:WEBR) (“Weber”), jointly filed a lawsuit against 12 defendants for selling products that illegally bear the WEBER® registered trademark in Amazon's store. The defendants attempted to offer counterfeit versions of the global grill maker's grill covers, violating Amazon's policies, infringing on Weber's registered trademarks, and breaking the law. The lawsuit was filed in th",
+            "source_name": "Business Wire",
+            "date": "Tue, 09 Nov 2021 08:04:00 -0500",
+            "topics": [
+                "PressRelease"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "WEBR"
+            ]
+        },
+        {
+            "news_url": "https://www.reuters.com/business/retail-consumer/exclusive-amazon-seeking-settle-eu-antitrust-investigations-sources-say-2021-11-09/",
+            "image_url": "https://cdn.snapi.dev/images/v1/8/r/m02d20211109t2i1580760231w940fhfwllplsqrlynxmpeha80ot-1096863.jpg",
+            "title": "Exclusive-Amazon seeking to settle EU antitrust investigations, sources say",
+            "text": "Amazon is seeking to settle two EU antitrust investigations that would stave off potential hefty fines and intrusive orders to change its business practices, people familiar with the matter said.",
+            "source_name": "Reuters",
+            "date": "Tue, 09 Nov 2021 08:00:00 -0500",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://techcrunch.com/2021/11/08/amazon-is-adding-a-venmo-checkout-option-next-year/",
+            "image_url": "https://cdn.snapi.dev/images/v1/1/t/venmo-1-1095851.jpg",
+            "title": "Amazon is adding a Venmo checkout option next year",
+            "text": "PayPal today announced that Amazon.com will be adding a Venmo option to checkout for users in the U.S., starting next year. The news arrived as the online payment giant announced solid third quarter results, with a 13% year over year revenue increase.",
+            "source_name": "TechCrunch",
+            "date": "Mon, 08 Nov 2021 17:54:03 -0500",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "PYPL",
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.freightwaves.com/news/paypal-says-amazon-customers-will-be-able-to-pay-with-venmo",
+            "image_url": "https://cdn.snapi.dev/images/v1/p/a/paypal-san-jose-office-1200x760-1095765.jpg",
+            "title": "PayPal says Amazon customers will be able to pay with Venmo",
+            "text": "PayPal announced that Amazon customers will be able to pay using Venmo starting in 2022, helping the company mute the reaction to a Q3 revenue miss. The announcement came as the company released its Q3 earnings Thursday after the market closed.",
+            "source_name": "FreightWaves",
+            "date": "Mon, 08 Nov 2021 17:00:38 -0500",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "PYPL"
+            ]
+        },
+        {
+            "news_url": "https://www.geekwire.com/2021/amazon-customers-will-able-pay-venmo-next-year/",
+            "image_url": "https://cdn.snapi.dev/images/v1/o/s/introducing-the-redesigned-venmo-app-lq-768x512-1095692.jpeg",
+            "title": "Amazon customers will be able to pay with Venmo next year",
+            "text": "Starting next year Amazon customers will be able to pay on Amazon.",
+            "source_name": "GeekWire",
+            "date": "Mon, 08 Nov 2021 16:36:45 -0500",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "PYPL",
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.marketwatch.com/story/paypals-venmo-strikes-new-partnership-with-amazon-earnings-outlook-comes-up-short-11636406821",
+            "image_url": "https://cdn.snapi.dev/images/v1/n/l/social-1095636.jpg",
+            "title": "Earnings Results: PayPal's Venmo strikes new partnership with Amazon; earnings outlook comes up short",
+            "text": "PayPal Holdings Inc. fell short of expectations Monday with its holiday-quarter outlook while also announcing a new arrangement with Amazon.com Inc. through which Venmo users will be able to use the service as a checkout option on the e-commerce giant's platform.",
+            "source_name": "Market Watch",
+            "date": "Mon, 08 Nov 2021 16:27:00 -0500",
+            "topics": [
+                "earnings",
+                "paylimitwall"
+            ],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "PYPL"
+            ]
+        },
+        {
+            "news_url": "https://invezz.com/news/2021/11/08/should-you-follow-jeff-bezos-lead-and-sell-amazon-stock/",
+            "image_url": "https://cdn.snapi.dev/images/v1/6/m/stock-amazon-1095283.jpg",
+            "title": "Should you follow Jeff Bezos' lead and sell Amazon stock?",
+            "text": "Amazon.com Inc. (NASDAQ:AMZN) shares on Monday edged lower after reports founder and executive chairman Jeff Bezos sold $3.3 billion worth of AMZN shares last week. According to Bloomberg, Bezos sold $2 billion before selling another $1.3 billion of his Amazon stock holding later in the week.",
+            "source_name": "Invezz",
+            "date": "Mon, 08 Nov 2021 15:02:23 -0500",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://feeds.benzinga.com/~r/benzinga/~3/60Q1t6wVJCo/amazon-aws-second-region-in-canada-could-add-5k-jobs-32b-in-gdp-by-2037",
+            "image_url": "https://cdn.snapi.dev/images/v1/q/a/amazon-reportedly-copied-products-and-manipulated-search-results-to-benefit-its-own-products-in-india-1047903-1095087.jpg",
+            "title": "Amazon AWS Second Region In Canada Could Add 5K Jobs, $32B In GDP By 2037",
+            "text": "Amazon.com Inc owned Amazon Web Services, Inc (AWS), will launch an infrastructure Region in Alberta, Canada, by late 2023 to early 2024.",
+            "source_name": "Benzinga",
+            "date": "Mon, 08 Nov 2021 13:01:44 -0500",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.businesswire.com/news/home/20211108005823/en/AWS-Announces-Plans-to-Open-Second-Region-in-Canada/",
+            "image_url": "https://cdn.snapi.dev/images/v1/r/r/press1-1094817.jpg",
+            "title": "AWS Announces Plans to Open Second Region in Canada",
+            "text": "SEATTLE--(BUSINESS WIRE)--Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced plans to open an infrastructure Region in Alberta, Canada, in late 2023/early 2024. The new AWS Canada West (Calgary) Region will consist of three Availability Zones (AZs) at launch and join the existing AWS Canada (Central) Region in Montreal, which also consists of three Availability Zones. Globally, AWS has 81 Availability Zones across 25 geographic regions, with plans to l",
+            "source_name": "Business Wire",
+            "date": "Mon, 08 Nov 2021 11:34:00 -0500",
+            "topics": [
+                "PressRelease"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://investorplace.com/2021/11/dont-expect-amzn-stock-great-q4-either/",
+            "image_url": "https://cdn.snapi.dev/images/v1/8/o/am253-1094727.jpg",
+            "title": "Don't Expect Amazon Stock to Have a Great Q4, Either",
+            "text": "Amazon didn't have a great third quarter (by its lofty standards). And there are problems for AMZN stock already on the horizon in Q4.",
+            "source_name": "InvestorPlace",
+            "date": "Mon, 08 Nov 2021 11:25:50 -0500",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2021/11/08/these-2-nasdaq-stocks-could-carry-your-portfolio-f/",
+            "image_url": "https://cdn.snapi.dev/images/v1/u/r/urlhttps3a2f2fgfoolcdncom2feditorial2fimages2f6515042fgettyimages-169275237jpgw700opresize-1093896.jpg",
+            "title": "These 2 Nasdaq Stocks Could Carry Your Portfolio for Years",
+            "text": "In the 2010s, technology was king in the stock market. In the 2020s, look for more of the same.",
+            "source_name": "The Motley Fool",
+            "date": "Mon, 08 Nov 2021 07:05:00 -0500",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "MU"
+            ]
+        },
+        {
+            "news_url": "https://www.benzinga.com/news/21/11/23937933/why-amazon-founder-jeff-bezos-offloaded-3-3b-in-the-ecommerce-companys-stock-this-week",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/r/ar22-1093070.jpg",
+            "title": "Why Amazon Founder Jeff Bezos Offloaded $3.3B In The Ecommerce Company's Stock This Week",
+            "text": "Amazon, Inc. (NASDAQ: AMZN) founder Jeff Bezos offloaded a significant stake in the ecommerce giant this week. What Happened: Bezos sold 391,550 shares during the week, which netted Amazon's executive chairman $3.3 billion, multiple filings done over the week showed.",
+            "source_name": "Benzinga",
+            "date": "Sat, 06 Nov 2021 13:38:20 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2021/11/06/supercharged-stocks-that-can-triple-your-money/",
+            "image_url": "https://cdn.snapi.dev/images/v1/u/r/urlhttps3a2f2fgfoolcdncom2feditorial2fimages2f6503942fgettyimages-509603597jpgw700opresize-1093016.jpg",
+            "title": "Got $3,000? These Supercharged Stocks Could Triple Your Money in a Decade",
+            "text": "Investing in growth stocks has the potential to multiply your money.",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 06 Nov 2021 11:30:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "NFLX"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2021/11/06/not-just-digital-faangs-take-a-big-bite-of-real-es/",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/z/urlhttps3a2f2fgfoolcdncom2feditorial2fimages2f6505262fdata-center-peoplejpgw700opresize-1092909.jpg",
+            "title": "Not Just Digital: FAANGs Take a Big Bite of Real Estate, Too",
+            "text": "Big tech is also a big owner of commercial real estate. There are opportunities around them for individual investors, too.",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 06 Nov 2021 07:33:00 -0400",
+            "topics": [
+                "Real Estate"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AAPL",
+                "AMZN",
+                "FB",
+                "GOOG",
+                "GOOGL",
+                "NFLX",
+                "PLD"
+            ]
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4466293-big-tech-hits-and-misses-which-faang-stocks-may-be-losing-their-bite",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/u/computer-electronic16-1092842.jpg",
+            "title": "Big Tech Hits And Misses: Which FAANG Stocks May Be Losing Their Bite?",
+            "text": "Big Tech hits and misses in Q3. Which FAANG stocks may be losing their fangs?",
+            "source_name": "Seeking Alpha",
+            "date": "Fri, 05 Nov 2021 23:10:00 -0400",
+            "topics": [
+                "paylimitwall"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AAPL",
+                "AMZN",
+                "FB",
+                "GOOG",
+                "GOOGL",
+                "MSFT",
+                "SNAP"
+            ]
+        },
+        {
+            "news_url": "https://www.zacks.com/commentary/1824713/are-earnings-estimates-going-down",
+            "image_url": "https://cdn.snapi.dev/images/v1/i/5/urlhttps3a2f2fgfoolcdncom2feditorial2fimages2f6368402fstock-trading-boardjpgw700opresize-943888-1036133-1077306-1092715.jpg",
+            "title": "Are Earnings Estimates Going Down?",
+            "text": "Earnings and revenue growth has come down in the ongoing Q3 earnings season from the first-half's breakneck speed, but.",
+            "source_name": "Zacks Investment Research",
+            "date": "Fri, 05 Nov 2021 18:19:03 -0400",
+            "topics": [
+                "earnings"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "DIS",
+                "DRH",
+                "PYPL"
+            ]
+        },
+        {
+            "news_url": "https://investorplace.com/2021/11/4-top-stock-trades-for-monday-amzn-gold-pins-pton/",
+            "image_url": "https://cdn.snapi.dev/images/v1/r/d/software2-1082783-1092695.jpg",
+            "title": "4 Top Stock Trades for Monday: AMZN, Gold, PINS, PTON",
+            "text": "Amazon, gold, Pinterest and Peloton were our top stock trades for Monday. With that in mind, here's what we're looking at from the charts now.",
+            "source_name": "InvestorPlace",
+            "date": "Fri, 05 Nov 2021 17:44:04 -0400",
+            "topics": [
+                "gold"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "PINS",
+                "PTON",
+                "GLD"
+            ]
+        },
+        {
+            "news_url": "https://www.kiplinger.com/investing/stocks/stocks-to-buy/603717/5-mega-cap-stocks-analysts-love-the-most",
+            "image_url": "https://cdn.snapi.dev/images/v1/b/a/bank25-911451-1092295.jpg",
+            "title": "5 Mega-Cap Stocks Analysts Love the Most",
+            "text": "Stocks with market values of at least $200 billion are where the really big money places its bets. These mega caps are Wall Street's favorites.",
+            "source_name": "Kiplinger",
+            "date": "Fri, 05 Nov 2021 14:34:28 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "CRM",
+                "GOOG",
+                "GOOGL",
+                "MSFT",
+                "TMO"
+            ]
+        },
+        {
+            "news_url": "https://www.reuters.com/article/amazon-com-satellites/amazon-seeks-u-s-approval-to-deploy-4500-additional-satellites-for-internet-project-idUSKBN2HQ1WT",
+            "image_url": "https://cdn.snapi.dev/images/v1/u/3/m02d20211105t2i1580399918w940fhfwllplsqrlynxmpeha40vq-1092057.jpg",
+            "title": "Amazon seeks U.S. approval to deploy 4,500 additional satellites for internet project",
+            "text": "Amazon.com is seeking approval from U.S. communications regulators to deploy more than 4,500 additional satellites as part of the company's effort to deliver broadband internet to areas around the world that lack high-speed service.",
+            "source_name": "Reuters",
+            "date": "Fri, 05 Nov 2021 13:02:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://invezz.com/news/2021/11/05/draftkings-ceo-we-want-to-be-in-the-same-conversation-with-companies-like-amazon/",
+            "image_url": "https://cdn.snapi.dev/images/v1/9/s/draftkings-stock-1-1091909.jpg",
+            "title": "DraftKings' CEO: ‘we want to be in the same conversation with companies like Amazon'",
+            "text": "DraftKings Inc (NASDAQ: DKNG) blamed higher cost of revenue as it reported widened loss and lower-than-expected revenue for its fiscal third quarter on Friday. Shares opened 5.0% down but recovered entirely in a few hours.",
+            "source_name": "Invezz",
+            "date": "Fri, 05 Nov 2021 12:07:48 -0400",
+            "topics": [
+                "CEO"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "DKNG"
+            ]
+        }
+    ],
+    "total_pages": 9
+}
