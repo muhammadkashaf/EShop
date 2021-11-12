@@ -39,8 +39,12 @@ router.get(`/`, async (req, res) => {
         return body
 
     });
-    res.send(groups)
-   
+
+    if (!groups) {
+        res.status(500).json({ success: false });
+    }
+    res.status(200).send({ data: groups })
+
 })
 
 
